@@ -31,7 +31,7 @@ Astra stays beside your work on macOS, understands the visible context, and acts
 
 ## Current status
 
-Astra is a private macOS developer preview built on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). It is ready for local product testing, but it is not yet a notarized, self-contained distribution for other Macs.
+Astra is an experimental macOS developer preview built on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). It is ready for local product testing, but it is not yet a notarized, self-contained distribution for other Macs.
 
 ## Run the developer preview
 

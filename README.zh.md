@@ -31,7 +31,7 @@ Astra 在 macOS 上陪伴你的工作，理解画面中的上下文，只在预�
 
 ## 当前状态
 
-Astra 是一个基于 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的私有 macOS 开发预览版，适合本地产品测试，但还不是可以在其他 Mac 上独立安装的公证分发包。
+Astra 是一个基于 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的实验性 macOS 开发预览版，适合本地产品测试，但还不是可以在其他 Mac 上独立安装的公证分发包。
 
 ## 运行开发预览版
 
