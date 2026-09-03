@@ -3,12 +3,14 @@
 [English](README.md) | 中文
 
 <p align="center">
-  <a href="docs/media/astra-product-film.mp4"><img src="packages/experimental/proactive-screen/app/Assets/AppIcon.png" width="112" alt="Astra 标志"></a>
+  <img src="packages/experimental/proactive-screen/app/Assets/AppIcon.png" width="112" alt="Astra 标志">
 </p>
 
 <p align="center"><strong>一个只在真正有帮助时出现的安静 AI 助手。</strong></p>
 
-<p align="center"><a href="docs/media/astra-product-film.mp4">▶ 观看产品影片</a></p>
+## 产品影片
+
+https://github.com/user-attachments/assets/0141b0d4-c9b9-4e0c-a922-aac9e44df944
 
 Astra 在 macOS 上陪伴你的工作，理解画面中的上下文，只在预期价值明显高于打扰和风险时行动。它不像一个等待提问的聊天机器人，更像一个体贴的助手：大部分时间保持安静，在你需要时立即提供价值，并能真正完成工作。
 
@@ -52,4 +54,4 @@ Astra 默认屏蔽常见的密码、认证、通知及自身界面。这份应�
 
 ## 许可证
 
-[MIT](LICENSE)。本仓库包含并基于 DeepSeek Harness 构建；第三方声明保留在 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)中。
+Astra 新增代码和媒体以 [PolyForm Noncommercial License 1.0.0](LICENSE)公开源代码，商业使用需要获得版权所有者的单独书面许可。仓库包含的 DeepSeek Harness 部分继续适用原有的 [MIT 许可证](LICENSES/DEEPSEEK-HARNESS-MIT.txt)，第三方声明保留在 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)中。

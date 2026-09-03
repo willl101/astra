@@ -3,12 +3,14 @@
 English | [中文](README.zh.md)
 
 <p align="center">
-  <a href="docs/media/astra-product-film.mp4"><img src="packages/experimental/proactive-screen/app/Assets/AppIcon.png" width="112" alt="Astra logo"></a>
+  <img src="packages/experimental/proactive-screen/app/Assets/AppIcon.png" width="112" alt="Astra logo">
 </p>
 
 <p align="center"><strong>A quiet AI assistant that notices when it can genuinely help.</strong></p>
 
-<p align="center"><a href="docs/media/astra-product-film.mp4">▶ Watch the product film</a></p>
+## Product film
+
+https://github.com/user-attachments/assets/0141b0d4-c9b9-4e0c-a922-aac9e44df944
 
 Astra stays beside your work on macOS, understands the visible context, and acts only when the expected value clearly exceeds the interruption and risk. It is designed to feel less like a chatbot and more like a thoughtful assistant: mostly silent, immediately useful when invited, and capable of completing real work.
 
@@ -52,4 +54,4 @@ Implementation details and limitations are documented in the [Astra package refe
 
 ## License
 
-[MIT](LICENSE). This repository includes and builds on DeepSeek Harness; third-party notices remain in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Astra-specific code and media are publicly source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE). Commercial use requires separate written permission from the copyright holder. The included DeepSeek Harness portions retain their original [MIT license](LICENSES/DEEPSEEK-HARNESS-MIT.txt), and third-party notices remain in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

@@ -28,7 +28,7 @@
     "lib/invariant.js",
     "lib/types/**/*.d.ts"
   ],
-  "license": "MIT",
+  "license": "SEE LICENSE IN ../../../LICENSE",
   "dependencies": {
     "@deepseek-ai/schemastery": "workspace:^"
   },
