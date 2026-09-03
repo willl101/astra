@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>zh_CN</string>
+  <key>CFBundleDisplayName</key>
+  <string>Astra</string>
+  <key>CFBundleExecutable</key>
+  <string>ProactiveAI</string>
+  <key>CFBundleIdentifier</key>
+  <string>ai.deepseek.proactive.local</string>
+  <key>CFBundleIconFile</key>
+  <string>AppIcon</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>Astra</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+	<string>0.1.6</string>
+	<key>CFBundleVersion</key>
+  <string>20</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>13.0</string>
+  <key>LSMultipleInstancesProhibited</key>
+  <true/>
+  <key>NSHighResolutionCapable</key>
+  <true/>
+	<key>NSInputMonitoringUsageDescription</key>
+	<string>用于识别双击 Fn 快捷触发；不会记录键入内容。</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>用于在你明确要求时操作备忘录等 Mac 应用。</string>
+	<key>NSPrincipalClass</key>
+  <string>NSApplication</string>
+</dict>
+</plist>

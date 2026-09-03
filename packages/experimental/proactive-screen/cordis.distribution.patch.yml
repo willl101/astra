@@ -1,0 +1,12 @@
+- insert:
+    - id: experimental-proactive-screen
+      name: './node_modules/@deepseek-ai/dsh-experimental-proactive-screen/lib/astra.mjs'
+      config:
+        provider: deepseek-official
+        model: deepseek-v4-flash
+        notificationMode: notify
+        captureIntervalSeconds: 15
+        maxInputCharacters: 1600
+        maxOutputTokens: 320
+        allowAgentExecution: true
+        allowEditorWrite: true

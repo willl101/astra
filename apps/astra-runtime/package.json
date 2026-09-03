@@ -1,0 +1,11 @@
+{
+  "name": "@deepseek-ai/astra-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@deepseek-ai/cordis-plugin-group": "workspace:^",
+    "@deepseek-ai/dsh": "workspace:^",
+    "@deepseek-ai/dsh-experimental-proactive-screen": "workspace:^"
+  }
+}
